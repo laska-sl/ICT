@@ -1,0 +1,10 @@
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+E:\University\Osipov\ADO-NET\DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb

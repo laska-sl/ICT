@@ -1,0 +1,10 @@
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.pdb
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.exe
+E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.pdb

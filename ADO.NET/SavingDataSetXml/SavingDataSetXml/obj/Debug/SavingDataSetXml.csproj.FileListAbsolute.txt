@@ -1,0 +1,10 @@
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+E:\University\Osipov\ADO-NET\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb

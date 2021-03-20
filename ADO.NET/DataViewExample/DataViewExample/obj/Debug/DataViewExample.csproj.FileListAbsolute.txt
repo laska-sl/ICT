@@ -1,0 +1,9 @@
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe.config
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\bin\Debug\DataViewExample.exe
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\bin\Debug\DataViewExample.pdb
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.exe
+E:\University\Osipov\ADO-NET\DataViewExample\DataViewExample\obj\Debug\DataViewExample.pdb

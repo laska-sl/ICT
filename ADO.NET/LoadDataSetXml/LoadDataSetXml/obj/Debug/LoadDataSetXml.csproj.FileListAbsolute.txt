@@ -1,0 +1,9 @@
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+E:\University\Osipov\ADO-NET\LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb

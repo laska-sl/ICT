@@ -1,0 +1,9 @@
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
+E:\University\Osipov\ADO-NET\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources

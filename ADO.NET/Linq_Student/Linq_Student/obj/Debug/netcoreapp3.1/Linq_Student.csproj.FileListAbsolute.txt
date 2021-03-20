@@ -1,0 +1,13 @@
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.exe
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.deps.json
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.runtimeconfig.json
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.runtimeconfig.dev.json
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.dll
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\bin\Debug\netcoreapp3.1\Linq_Student.pdb
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.AssemblyInfoInputs.cache
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.AssemblyInfo.cs
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.dll
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.pdb
+E:\University\Osipov\ADO-NET\Linq_Student\Linq_Student\obj\Debug\netcoreapp3.1\Linq_Student.genruntimeconfig.cache

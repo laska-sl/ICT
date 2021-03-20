@@ -1,0 +1,9 @@
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfoInputs.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.AssemblyInfo.cs
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.deps.json
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\netstandard2.0\CodeFirst.pdb
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\netstandard2.0\CodeFirst.pdb
