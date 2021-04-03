@@ -8,3 +8,13 @@ E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.cs
 E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
 E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.exe
 E:\University\Osipov\ADO-NET\DBConnection\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.Form1.resources
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\DBConnection\DBConnection\obj\Debug\DBConnection.pdb

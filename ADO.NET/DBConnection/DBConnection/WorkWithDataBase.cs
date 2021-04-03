@@ -17,8 +17,10 @@ namespace DBConnection
                 command.Connection = connection;
                 connection.Open();
                 command.CommandText = qv;
+
                 int number = (int)command.ExecuteScalar();
-            return number;
+                
+                return number;
             }
         }
 

@@ -8,3 +8,13 @@ E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.Gene
 E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
 E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.exe
 E:\University\Osipov\ADO-NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.pdb
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.exe
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\bin\Debug\LINQsql_m.pdb
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csprojAssemblyReference.cache
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.exe
+C:\Users\lasuk\OneDrive\University\8 semester\ICT Software\Projects\ADO.NET\LINQsql_m\LINQsql_m\obj\Debug\LINQsql_m.pdb
